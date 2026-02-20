@@ -1,4 +1,4 @@
-# Amanda Estrela
+# Amanda Estrela Dos Santos
 
 Desenvolvedora de Software
 
