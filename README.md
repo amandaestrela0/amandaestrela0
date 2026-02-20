@@ -1,24 +1,27 @@
-# Oiee!! Bem-vindo(a) ao meu repositório, onde bits e bytes se reúnem para criar mágica! eu sou a Amanda Estrela💫
+# Amanda Estrela
 
-"Programar é como fazer um sanduíche: você começa com os ingredientes básicos, mistura-os com criatividade e no final, tem algo incrível!"
+Desenvolvedora de Software
 
+## Sobre
 
-Aqui, bugs são apenas "características inesperadas" 
+Repositório dedicado ao desenvolvimento, estudo e experimentação em tecnologia.
+Aqui concentro projetos pessoais, exercícios práticos e soluções construídas com foco em aprendizado contínuo, organização de código e boas práticas de desenvolvimento.
 
-*Lembre-se, "Girls who code white the future"* 🐞
+## Tecnologias e Ferramentas
 
-Então, pegue sua xícara de café (ou chá, se preferir) ☕ e vamos transformar linhas de código em histórias de sucesso! 🚀👋
+* Git & GitHub
+* MATLAB
+* Python
+* Java
+* SQL
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](amandaestreladossantos877@gmail.com )
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](.amandaestrela)
-[![pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/amandaestreladossantos877/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-estrela-dos-santos-b63651183/)
-[![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amanda.estrelad/)
+## Contato
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:amandaestreladossantos877@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/amanda-estrela-dos-santos-b63651183/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/amanda.estrelad/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?\&style=for-the-badge\&logo=Pinterest\&logoColor=white)](https://br.pinterest.com/amandaestreladossantos877/)
 
-<div style="display: inline_block"><br>
-            <img align="center" alt="Am-boot" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-            <img align="center" alt="AM-can" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-            <img align="center" alt="AM-git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-            <img align="center" alt"AM-mat" height"30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-   
+## Objetivo
+
+Compartilhar conhecimento, documentar evolução técnica e disponibilizar projetos que demonstrem organização, clareza de código e aplicação prática dos conceitos de desenvolvimento.
